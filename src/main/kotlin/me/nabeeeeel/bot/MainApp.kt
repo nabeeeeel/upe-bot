@@ -55,7 +55,7 @@ suspend fun main(args: Array<String>) {
             }
 
             field {
-                value = "[[Join UPE]]()"
+                value = "[[Join UPE]](https://docs.google.com/forms/d/e/1FAIpQLSdzaVei73fM7IB9e9twSkXIr3IkIToWDuVygmi4git4HoIyvQ/viewform)"
                 inline = true
             }
 
